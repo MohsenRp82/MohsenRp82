@@ -1,6 +1,4 @@
-# Hi
-# I'm Mohsen 👋
-# intrested in web coding 💻
-
-# Skills :
-# HTML , CSS , BOOTSTRAP , TAILWIND , JS
+## Hi I'm Mohsen 👋
+## intrested in web coding 💻
+## Skills :
+## HTML , CSS , BOOTSTRAP , TAILWIND , JS
